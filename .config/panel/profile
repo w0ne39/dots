@@ -1,0 +1,12 @@
+PANEL_FIFO=/tmp/panel-fifo
+PANEL_HEIGHT=14
+PANEL_FONT="xft:gohufont:size=11:antialias=false"
+PANEL_WM_NAME=bspwm_panel
+
+NFD='5'
+NFH='64'
+NFL='28'
+NFG="#5f8787"
+NBG="#121212"
+
+export PANEL_FIFO PANEL_HEIGHT PANEL_FONT PANEL_WM_NAME

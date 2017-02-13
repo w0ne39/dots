@@ -1,0 +1,26 @@
+2017/02/13-15:41:04.446 29014 Reusing MANIFEST /home/w0ne/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/MANIFEST-000001
+2017/02/13-15:41:04.447 29014 Recovering log #186
+2017/02/13-15:41:04.447 29014 Reusing old log /home/w0ne/.config/chromium/Default/Local Extension Settings/cfhdojbkjhnklbpkdaibdccddilifddb/000186.log 
+2017/02/13-15:42:07.013 1113 Level-0 table #190: started
+2017/02/13-15:42:07.196 1113 Level-0 table #190: 2308675 bytes OK
+2017/02/13-15:42:07.245 1113 Delete type=0 #186
+2017/02/13-15:42:07.248 1113 Compacting 4@0 + 2@1 files
+2017/02/13-15:42:07.498 1113 Generated table #191@0: 1 keys, 2308246 bytes
+2017/02/13-15:42:07.546 1113 Generated table #192@0: 2 keys, 339 bytes
+2017/02/13-15:42:07.546 1113 Compacted 4@0 + 2@1 files => 2308585 bytes
+2017/02/13-15:42:07.594 1113 compacted to: files[ 0 2 1 0 0 0 0 ]
+2017/02/13-15:42:07.594 1113 Delete type=2 #180
+2017/02/13-15:42:07.595 1113 Delete type=2 #190
+2017/02/13-15:42:07.596 1113 Delete type=2 #179
+2017/02/13-15:42:07.597 1113 Delete type=2 #185
+2017/02/13-15:42:07.598 1113 Delete type=2 #182
+2017/02/13-15:42:07.599 1113 Delete type=2 #187
+2017/02/13-15:43:13.464 1113 Level-0 table #194: started
+2017/02/13-15:43:13.630 1113 Level-0 table #194: 2308246 bytes OK
+2017/02/13-15:43:13.704 1113 Delete type=0 #189
+2017/02/13-16:42:07.032 1113 Level-0 table #196: started
+2017/02/13-16:42:07.184 1113 Level-0 table #196: 2311123 bytes OK
+2017/02/13-16:42:07.305 1113 Delete type=0 #193
+2017/02/13-16:42:07.777 1113 Level-0 table #198: started
+2017/02/13-16:42:07.906 1113 Level-0 table #198: 2308246 bytes OK
+2017/02/13-16:42:08.007 1113 Delete type=0 #195

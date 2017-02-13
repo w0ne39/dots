@@ -1,0 +1,25 @@
+2017/02/13-17:33:09.614 24723 Reusing MANIFEST /home/w0ne/.config/chromium/Default/Session Storage/MANIFEST-000001
+2017/02/13-17:33:09.614 24723 Recovering log #600
+2017/02/13-17:33:09.614 24723 Reusing old log /home/w0ne/.config/chromium/Default/Session Storage/000600.log 
+2017/02/13-17:36:50.601 29194 Level-0 table #604: started
+2017/02/13-17:36:50.645 29194 Level-0 table #604: 123772 bytes OK
+2017/02/13-17:36:50.694 29194 Delete type=0 #600
+2017/02/13-17:38:45.604 29194 Level-0 table #606: started
+2017/02/13-17:38:45.649 29194 Level-0 table #606: 122890 bytes OK
+2017/02/13-17:38:45.698 29194 Delete type=0 #603
+2017/02/13-17:38:45.698 29194 Compacting 4@0 + 3@1 files
+2017/02/13-17:38:45.890 29194 Generated table #607@0: 7609 keys, 2155460 bytes
+2017/02/13-17:38:46.023 29194 Generated table #608@0: 251 keys, 2120671 bytes
+2017/02/13-17:38:46.167 29194 Generated table #609@0: 3787 keys, 1486888 bytes
+2017/02/13-17:38:46.167 29194 Compacted 4@0 + 3@1 files => 5763019 bytes
+2017/02/13-17:38:46.215 29194 compacted to: files[ 0 3 1 0 0 0 0 ]
+2017/02/13-17:38:46.216 29194 Delete type=2 #596
+2017/02/13-17:38:46.216 29194 Delete type=2 #601
+2017/02/13-17:38:46.216 29194 Delete type=2 #604
+2017/02/13-17:38:46.216 29194 Delete type=2 #597
+2017/02/13-17:38:46.216 29194 Delete type=2 #599
+2017/02/13-17:38:46.216 29194 Delete type=2 #595
+2017/02/13-17:38:46.217 29194 Delete type=2 #606
+2017/02/13-17:38:59.712 29194 Level-0 table #611: started
+2017/02/13-17:38:59.768 29194 Level-0 table #611: 94429 bytes OK
+2017/02/13-17:38:59.817 29194 Delete type=0 #605

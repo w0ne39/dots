@@ -1,0 +1,12 @@
+{
+   "chrome_url_overrides": {
+      "newtab": "ntp.html"
+   },
+   "description": "Empty New Tab Page shows a blank, Black page, rather than the chrome default",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6Z89mpkE9SndDln+00+53g7nOPVWXWKyXaJTHqJwDgd0XGNzgPKIqxWupLFlkT4k7T0fS7EnNZM4jeOyG342jXO/iIBN80Ht3OyqIvLkO+eYUwcHceVeiwyeCOPgA2MhfHofQ2YVPH/HjMdg2DG+xhdykHkMgixNc+tqOTetv0aKgD235gza8hn7829nWUAcHW0WQD0hdRKMJf161UEyGG0yz8O9j2WnYJuF38QTeQPU9PiHbl+7TsnIVhSStPOqXZDtinJh2RM6b9yO2ct/9e50S6bmh9gdSzUk0lcODxeI1t3MDXXJ6ffN0V0Cy1mMwwOEdwmUT/FG5hhNRDmjCQIDAQAB",
+   "manifest_version": 2,
+   "name": "Empty New Tab Page - Black",
+   "short_name": "Empty Tab",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.1"
+}
